@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_HHMMSS.sss            HHMMSS.sss</name>
+   <tag></tag>
+   <elementGuidId>5332b9c7-8568-486e-b384-5f6abd7d2005</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8ed38530-8111-4787-8dda-1667cb79c822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            HH:MM:SS.sss
+            HH:MM:SS.sss
+        </value>
+      <webElementGuid>7e0e4a3d-376b-4f4e-b49e-ef3e065bfa45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;demo-page center&quot;]/div[@class=&quot;section&quot;]/p[4]</value>
+      <webElementGuid>5af1c131-936e-44ce-85a0-c10e335ce8c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?diff2'])[1]/following::p[1]</value>
+      <webElementGuid>a3b4aa85-d625-4126-940a-edb19d3393c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='?diff1'])[1]/following::p[2]</value>
+      <webElementGuid>4c972b69-1aee-4607-8f44-3a5bbcec2ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>ab7861f4-b628-4571-a0a6-41b2875b57b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+            HH:MM:SS.sss
+            HH:MM:SS.sss
+        ' or . = '
+            HH:MM:SS.sss
+            HH:MM:SS.sss
+        ')]</value>
+      <webElementGuid>9a951a78-d5fd-48bc-a968-13b929a2157b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
