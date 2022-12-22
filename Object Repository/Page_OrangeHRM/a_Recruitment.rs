@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Admin</name>
+   <name>a_Recruitment</name>
    <tag></tag>
-   <elementGuidId>b9a5432a-b159-49e8-b2b0-7bb132b79c42</elementGuidId>
+   <elementGuidId>6117b87a-c33a-4dec-ae75-3a335dc281f0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.oxd-main-menu-item</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li/a</value>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>58a3a12c-a585-4f03-8d2f-d412fa2f1e73</webElementGuid>
+      <webElementGuid>d3f29407-d359-4584-8b5c-addf15a0d936</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-main-menu-item</value>
-      <webElementGuid>8411986b-e46e-46c6-bb45-22ee26b09e39</webElementGuid>
+      <webElementGuid>c0a0a9e4-05d7-4665-828c-865d934d8888</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/web/index.php/admin/viewAdminModule</value>
-      <webElementGuid>d0912da0-cd58-457b-a70f-a1eb5160ad91</webElementGuid>
+      <value>/web/index.php/recruitment/viewRecruitmentModule</value>
+      <webElementGuid>4ef7869e-c8cc-44f6-b59f-f83bb2a845db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Admin</value>
-      <webElementGuid>1fe82152-0911-4824-8ac4-fe0a777a14a3</webElementGuid>
+      <value>Recruitment</value>
+      <webElementGuid>95f00649-beec-43b9-b4e9-65a56f5ae0c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,38 +54,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]</value>
-      <webElementGuid>0bcea211-7c8a-4415-b15f-45b90085a3c4</webElementGuid>
+      <webElementGuid>5e790509-c020-4720-bc21-f73532f14400</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li/a</value>
-      <webElementGuid>9c7d629a-d759-4080-b797-b0b74d368133</webElementGuid>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[5]/a</value>
+      <webElementGuid>1e4c19d6-4e96-47bf-8573-d5914e41d448</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/web/index.php/admin/viewAdminModule')]</value>
-      <webElementGuid>84668f3b-5aa5-462a-aade-2447fb3f38ab</webElementGuid>
+      <value>//a[contains(@href, '/web/index.php/recruitment/viewRecruitmentModule')]</value>
+      <webElementGuid>2c055960-25f1-4cee-851c-bf432091b175</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>df2dfe2a-0d05-4c4f-b1ca-cf20e7404c4f</webElementGuid>
+      <value>//li[5]/a</value>
+      <webElementGuid>09df899c-97e7-4474-a600-ca02f56a4b33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/web/index.php/admin/viewAdminModule' and (text() = 'Admin' or . = 'Admin')]</value>
-      <webElementGuid>6757dedf-2934-46d5-827d-ae92954c2cb7</webElementGuid>
+      <value>//a[@href = '/web/index.php/recruitment/viewRecruitmentModule' and (text() = 'Recruitment' or . = 'Recruitment')]</value>
+      <webElementGuid>bedc2237-9d7a-4590-9ef3-97a374444eda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

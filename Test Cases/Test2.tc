@@ -4,5 +4,9 @@
    <name>Test2</name>
    <tag></tag>
    <comment></comment>
+<<<<<<< HEAD
+   <testCaseGuid>c2ca4a6a-12b9-4258-aa81-6ab20c240005</testCaseGuid>
+=======
    <testCaseGuid>c4fc521a-d43e-4f35-9928-92db65520cde</testCaseGuid>
+>>>>>>> branch 'master2' of https://github.com/Qtester94/VisualTest.git
 </TestCaseEntity>

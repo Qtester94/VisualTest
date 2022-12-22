@@ -6,12 +6,12 @@
    <elementGuidId>3b25b035-f6bf-4e3a-87d9-1f89cd230610</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'?diff1')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'?diff1')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>aaa6ab71-38bd-4bb9-b0fb-788770ad55ca</webElementGuid>
+      <webElementGuid>8e465d29-bd69-49ce-ac3a-7bc10f0f6133</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>?diff1</value>
-      <webElementGuid>e016384f-5b1c-42a9-993d-4a8b862b8577</webElementGuid>
+      <webElementGuid>0d0f21c4-f85f-4fe4-b880-032b833c6f9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>?diff1</value>
-      <webElementGuid>0d07dc19-ee54-4ef7-ac14-ece50b341b40</webElementGuid>
+      <webElementGuid>ec1ec803-49d1-4aaa-9643-af1d1b1f0d95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;demo-page center&quot;]/div[@class=&quot;section&quot;]/p[2]/a[1]</value>
-      <webElementGuid>20d959e4-cc31-4aef-9bf2-1ea8da72b8fb</webElementGuid>
+      <webElementGuid>7aedf005-da94-471b-9580-a0c1568d40ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'?diff1')]</value>
-      <webElementGuid>5b321c3c-769b-4361-920a-43b7eb4d0486</webElementGuid>
+      <webElementGuid>7e03bfc7-3cf2-4214-9698-6a7e5f974ea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='!'])[2]/following::a[1]</value>
-      <webElementGuid>22d9125d-eaa1-43da-8f58-808dfd502345</webElementGuid>
+      <webElementGuid>498f9cb4-1fc9-4a3d-9bba-7e0af6a8b864</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='d'])[2]/following::a[1]</value>
-      <webElementGuid>9e4e1961-9a45-4d9e-bb53-e691c5014aa8</webElementGuid>
+      <webElementGuid>165e79ac-b52d-4535-a483-a74ad1f47b18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='?diff2'])[1]/preceding::a[1]</value>
-      <webElementGuid>d6ce385c-c343-43dc-89eb-0b803135afb1</webElementGuid>
+      <webElementGuid>6f7d0219-d05e-49aa-86df-8b12442b20eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HH:MM:SS.sss'])[1]/preceding::a[2]</value>
-      <webElementGuid>68779c9c-df05-41d2-abfd-ed7ce2f44ffe</webElementGuid>
+      <webElementGuid>e0f7699f-75b1-43b1-8b5c-3f3de1ff7f42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='?diff1']/parent::*</value>
-      <webElementGuid>b6cc4eec-f372-47be-9924-73ba556d7d96</webElementGuid>
+      <webElementGuid>8402590f-818b-4bf5-a968-3f19ada11fec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '?diff1')]</value>
-      <webElementGuid>7b547f1f-8979-402c-8446-97c3e411ff4e</webElementGuid>
+      <webElementGuid>02f88669-491c-4e5c-af53-bfcf30f9baf3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>34a41624-51c3-46b3-928d-3136b2b46400</webElementGuid>
+      <webElementGuid>15cc2329-0595-43ea-a099-688937190416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '?diff1' and (text() = '?diff1' or . = '?diff1')]</value>
-      <webElementGuid>3b5ecf89-9b15-4379-bce1-1d324b7c3adc</webElementGuid>
+      <webElementGuid>ef8787dd-8fe9-4ed2-9576-fd6515c99edd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

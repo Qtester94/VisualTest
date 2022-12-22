@@ -10,33 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>fca64641-8d3b-413b-b1b7-08de6c0276ca</testSuiteGuid>
+   <testSuiteGuid>79640ea3-91d5-41de-a269-b46b1b70de8b</testSuiteGuid>
    <testCaseLink>
-      <guid>92996080-179e-41e5-82c4-3a4a48202539</guid>
+      <guid>c70de146-67b2-4eda-b4e9-3d9de807765c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test1</testCaseId>
+      <testCaseId>Test Cases/VisualTesting1/Test1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d01e9aea-f945-4f70-90fb-587c3cbd9950</guid>
+      <guid>af763b09-6af4-4fe1-969d-44745467db48</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test2</testCaseId>
+      <testCaseId>Test Cases/VisualTesting1/Test3</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>92f2d6f9-44b5-49d2-964c-81b58abb8caf</guid>
+      <guid>5a3c25ed-4fdd-4ef4-87bf-718f412e9829</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test3</testCaseId>
+      <testCaseId>Test Cases/VisualTesting1/Test4</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2f8916b8-4309-41ee-a79a-bf1a6e8e2d7b</guid>
+      <guid>101ab6cb-0978-48b3-a3e4-45b988c46f09</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test4</testCaseId>
+      <testCaseId>Test Cases/VisualTesting1/Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
