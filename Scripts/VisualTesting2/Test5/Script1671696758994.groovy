@@ -21,17 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.setText(findTestObject('null'), 'Admin')
+WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/div_Username'))
 
-WebUI.setEncryptedText(findTestObject('null'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_username'), 'Admin')
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
-WebUI.click(findTestObject('null'))
+WebUI.sendKeys(findTestObject('Object Repository/Page_OrangeHRM/input_Password_password'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Admin'))
 
-CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('Check9A')
+WebUI.takeScreenshotAsCheckpoint('Tes5A')
 
 WebUI.closeBrowser()
 

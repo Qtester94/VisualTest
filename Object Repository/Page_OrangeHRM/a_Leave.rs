@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Admin</name>
+   <name>a_Leave</name>
    <tag></tag>
-   <elementGuidId>b9a5432a-b159-49e8-b2b0-7bb132b79c42</elementGuidId>
+   <elementGuidId>ccf6e9ac-ef19-4734-bd03-a446bf0c6f70</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.oxd-main-menu-item</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li/a</value>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[3]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>58a3a12c-a585-4f03-8d2f-d412fa2f1e73</webElementGuid>
+      <webElementGuid>8bc5f528-d4eb-4580-96b7-68366f65edf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-main-menu-item</value>
-      <webElementGuid>8411986b-e46e-46c6-bb45-22ee26b09e39</webElementGuid>
+      <webElementGuid>ab7cba4f-b23d-4a8a-9129-2ea7934332cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/web/index.php/admin/viewAdminModule</value>
-      <webElementGuid>d0912da0-cd58-457b-a70f-a1eb5160ad91</webElementGuid>
+      <value>/web/index.php/leave/viewLeaveModule</value>
+      <webElementGuid>3110b818-424a-4ff4-a154-5d21a7d209e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Admin</value>
-      <webElementGuid>1fe82152-0911-4824-8ac4-fe0a777a14a3</webElementGuid>
+      <value>Leave</value>
+      <webElementGuid>e3ce3cd3-24b6-42d8-9a6f-53110deaec07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,38 +54,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]</value>
-      <webElementGuid>0bcea211-7c8a-4415-b15f-45b90085a3c4</webElementGuid>
+      <webElementGuid>cecc62b3-42cf-4b54-90a6-7fc145f4741c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li/a</value>
-      <webElementGuid>9c7d629a-d759-4080-b797-b0b74d368133</webElementGuid>
+      <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[3]/a</value>
+      <webElementGuid>eac0444c-02c6-4744-b8be-71fcc1a2b68f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/web/index.php/admin/viewAdminModule')]</value>
-      <webElementGuid>84668f3b-5aa5-462a-aade-2447fb3f38ab</webElementGuid>
+      <value>//a[contains(@href, '/web/index.php/leave/viewLeaveModule')]</value>
+      <webElementGuid>d2f2d299-ddd8-4163-9f26-1e8570291058</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>df2dfe2a-0d05-4c4f-b1ca-cf20e7404c4f</webElementGuid>
+      <value>//li[3]/a</value>
+      <webElementGuid>8119bb5a-d3a3-46ce-968f-8cbfb3a67cc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/web/index.php/admin/viewAdminModule' and (text() = 'Admin' or . = 'Admin')]</value>
-      <webElementGuid>6757dedf-2934-46d5-827d-ae92954c2cb7</webElementGuid>
+      <value>//a[@href = '/web/index.php/leave/viewLeaveModule' and (text() = 'Leave' or . = 'Leave')]</value>
+      <webElementGuid>748e7ac2-893a-4b6b-a3dd-17ab1ea63a5b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
